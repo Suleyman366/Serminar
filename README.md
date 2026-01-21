@@ -29,9 +29,13 @@ Einleitung --> https://github.com/sandrawiegard/git-workshop/blob/main/README.md
 • Geeignet für Anfänger und Fortgeschrittene
 
 ### Welches GUI gefällt mir?
-Es ist kostenlos, einfach zu bedienen und gut für Anfänger. Die Oberfläche ist übersichtlich und man kann Commits, Push, Pull und Branches leicht machen. Es läuft auf Windows, macOS und Linux und ist direkt mit GitHub verbunden und weil ich es benutzt habe
+Fork ist ein einfaches Programm für Git.
+Es ist übersichtlich und leicht zu bedienen, weil man vieles nur anklicken muss.
+Man sieht Änderungen am Code klar und kann sie einfach speichern.
+Auch verschiedene Versionen (Branches) werden gut angezeigt, sodass man sie leicht versteht.
+Fork funktioniert auf mehreren Betriebssystemen und ist gut für Anfänger, aber auch für Fortgeschrittene geeignet.
 
-Link: https://desktop.github.com/  
+Link: https://git-fork.com/
 
 
 
