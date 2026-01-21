@@ -14,7 +14,7 @@ Einleitung --> https://github.com/sandrawiegard/git-workshop/blob/main/README.md
 
 ## GUIs für Git
 
-# Beispiele für GUIs für Git sind:
+### Beispiele für GUIs für Git sind:
 1. Sourcetree
 • Kostenlos und viele Funktionen
 • Gute Übersicht über Branches & Commits
