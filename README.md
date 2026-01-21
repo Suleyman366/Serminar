@@ -36,6 +36,13 @@ Auch verschiedene Versionen sind gut verständlich dargestellt, was besonders An
 Fork ist auch gut für die Arbeit im Team geeignet. Dadurch wird die Zusammenarbeit im Team übersichtlich und sicher, auch für Anfänger.
 Fork läuft auf mehreren Betriebssystemen und eignet sich für Einsteiger und Fortgeschrittene.
 
+### Nachteil: 
+Kostenpflichtig
+
+![image1Win (2)](https://github.com/user-attachments/assets/1d9c9f7c-0ceb-4ab5-9ece-bc316400eb34)
+
+![Bildschirmfoto_21-1-2026_9416_git-fork com](https://github.com/user-attachments/assets/7a85a08b-456c-41a3-bf12-499885171630)
+
 Link: https://git-fork.com/
 
 
