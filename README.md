@@ -29,11 +29,12 @@ Einleitung --> https://github.com/sandrawiegard/git-workshop/blob/main/README.md
 • Geeignet für Anfänger und Fortgeschrittene
 
 ### Welches GUI gefällt mir?
-Fork ist ein einfaches Programm für Git.
-Es ist übersichtlich und leicht zu bedienen, weil man vieles nur anklicken muss.
-Man sieht Änderungen am Code klar und kann sie einfach speichern.
-Auch verschiedene Versionen (Branches) werden gut angezeigt, sodass man sie leicht versteht.
-Fork funktioniert auf mehreren Betriebssystemen und ist gut für Anfänger, aber auch für Fortgeschrittene geeignet.
+Fork ist ein benutzerfreundliches Git-Programm mit einer klaren und modernen Oberfläche.
+Viele Funktionen lassen sich einfach nutzen, ohne Git-Befehle zu kennen.
+Änderungen am Code werden übersichtlich angezeigt und können leicht gespeichert werden.
+Auch verschiedene Versionen sind gut verständlich dargestellt, was besonders Anfängern hilft.
+Fork ist auch gut für die Arbeit im Team geeignet. Dadurch wird die Zusammenarbeit im Team übersichtlich und sicher, auch für Anfänger.
+Fork läuft auf mehreren Betriebssystemen und eignet sich für Einsteiger und Fortgeschrittene.
 
 Link: https://git-fork.com/
 
